@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+![](https://gist.github.com/T-Jedsada/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
+
 
 <!--
 **joannemas/joannemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
