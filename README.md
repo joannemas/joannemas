@@ -36,7 +36,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://c.tenor.com/Hc1dGTB93k0AAAAC/divider-yeah.gif" width="650" height="15">
+  <img src="https://c.tenor.com/Hc1dGTB93k0AAAAC/divider-yeah.gif" width="750" height="18">
   <img src="https://preview.redd.it/k4tzxbdubmp01.png?auto=webp&s=c7b1e742459dbc9b8dbe313b23e53b1b791ecc11" height="200">
 </div>
 
