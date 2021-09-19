@@ -12,10 +12,6 @@
 * :cactus: 19 Years Old
 * :cactus: Web Student
 * :cactus: Paris, France
-* :cactus: 
-* :cactus:
-* :cactus:
-* :cactus:
 
 
 <div align="center">
